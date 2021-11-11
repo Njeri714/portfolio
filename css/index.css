@@ -6,9 +6,9 @@ h2{
 em {
     color: greenyellow;
 }
-/*.must{
-    background-image: url(https://cdn.pixabay.com/photo/2018/11/17/07/10/desktop-3820634_960_720.jpg);
-}*/
+#image{
+    background-color: honeydew;
+}
 p{
     font-weight: bolder;
 }
