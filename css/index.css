@@ -1,13 +1,14 @@
 h2{
     font-size: medium;
     color: green;
+    font-weight: bolder;
 }
 em {
     color: greenyellow;
 }
-.container1{
-    background-image: url(https://cdn.pixabay.com/photo/2021/10/19/09/42/nature-6723113_960_720.jpg);
+.must{
+    background-image: url(https://cdn.pixabay.com/photo/2018/11/17/07/10/desktop-3820634_960_720.jpg);
 }
 p{
-    color: #fff;
+    font-weight: bolder;
 }
