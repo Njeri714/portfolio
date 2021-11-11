@@ -5,3 +5,9 @@ h2{
 em {
     color: greenyellow;
 }
+.container1{
+    background-image: url(https://cdn.pixabay.com/photo/2021/10/19/09/42/nature-6723113_960_720.jpg);
+}
+p{
+    color: #fff;
+}
