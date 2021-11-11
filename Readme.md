@@ -1,7 +1,7 @@
 # Portfolio
 
 #### By Charity Waweru
- ### below is my resume on things that will be much entailed in my website
+   ##### below is my resume on things that will be much entailed in my website
 
  ## Table of content
 
