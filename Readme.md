@@ -9,7 +9,8 @@
  2. Installation
  3. Reference
  4. Authors information
- 5. Licence
+ 5. Link
+ 6. Licence
 
 
 ## Description
@@ -24,6 +25,9 @@ In the website below has my resume and background information about me plus a li
 Slack- Charity Waweru
 
 Email- charity.waweru@student.moringaschool.com
+
+## link 
+https://github.com/Njeri714/portfolio  - page link in github
 
 ## license
 copyright [2021]
