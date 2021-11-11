@@ -12,7 +12,3 @@ em {
 p{
     font-weight: bolder;
 }
-.main{
-    display: flex;
-    justify-content: space-between;
-}
