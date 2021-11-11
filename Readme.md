@@ -27,10 +27,10 @@ Slack- Charity Waweru
 Email- charity.waweru@student.moringaschool.com
 
 ## link 
-https://github.com/Njeri714/portfolio  - page link in github
-https://njeri714.github.io/portfolio/  -gh pages
+1. https://github.com/Njeri714/portfolio  - page link in github
+2. https://njeri714.github.io/portfolio/  -gh pages
 ## license
 copyright [2021]
 
 Anyone wanting to change or push something else in the website is allowed.
-To copy , print or do anything relatrd to media press is not allowed.
+To copy, print or do anything related to media press is not allowed.
